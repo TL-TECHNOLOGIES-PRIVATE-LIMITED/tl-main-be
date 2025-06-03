@@ -25,7 +25,7 @@ export const sendWelcomeEmail = async (email) => {
       </ul>
       <p>We're excited to share our expertise and help you navigate the evolving landscape of technology.</p>
       <p>In the meantime, feel free to visit our website and explore our comprehensive range of services: <a href="https://tltechnologies.net/">https://tltechnologies.net/</a></p>
-      <p>If you ever wish to unsubscribe, click here: <a href="https://tltechnologies.net/unsubscribe.html">Unsubscribe</a></p>
+      <p>If you ever wish to unsubscribe, click here: <a href="https://tl-home-web-new-eight.vercel.app/unsubscribe.html">Unsubscribe</a></p>
       <br />
       <p>Best regards,</p>
       <p><strong>The Team at TL Technologies</strong><br />
